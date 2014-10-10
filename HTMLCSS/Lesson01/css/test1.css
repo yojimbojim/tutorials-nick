@@ -1,0 +1,42 @@
+body {
+	background-color: #000000;
+	background-image: url(../images/blue.PNG);
+	background-repeat: repeat-y;
+	padding-top: 100px;
+}
+
+h1 {
+	color: #FFFFFF;
+	padding: 10px;
+}
+
+p {
+	color: #AAAAAA;
+	text-align: center;
+}
+
+table {
+	border-color: light-blue;
+	padding: 3px;
+	border-style: solid;
+}
+
+thead {
+	color: #FFFFFF;
+	outline-color: lime;
+	outline-style: solid;
+	outline-width: 1px;
+}
+
+tbody {
+	color: #AAAAAA;
+	outline-color: aqua;
+	outline-style: solid;
+	outline-width: 1px;
+}
+
+td {
+	outline-color: #888888;
+	outline-style: solid;
+	outline-width: 1px;
+}
