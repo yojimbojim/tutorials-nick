@@ -1,8 +1,10 @@
 body {
-	background-color: #000000;
+	background-color: #272727;
 	background-image: url(../images/blue.PNG);
+	background-size: 250px 30px;
 	background-repeat: repeat-y;
-	padding-top: 100px;
+	padding-top: 30px;
+	padding-left: 30px;
 }
 
 h1 {
@@ -39,4 +41,30 @@ td {
 	outline-color: #888888;
 	outline-style: solid;
 	outline-width: 1px;
+}
+
+li {
+	font-size: 10pt;
+}
+
+ol {
+	color: green;
+}
+
+ul{ 
+	color: yellow;
+}
+
+img {
+	outline-color: black;
+	outline-style: dashed;
+	outline-width: 3px;
+	width: 200px;
+	
+}
+
+a {
+	color: #5050FF
+
+
 }
